@@ -1,0 +1,13 @@
+---
+layout: post
+author: hateyou218
+title:  "開工大吉"
+date:   2020-03-23 22:10:00 +0800
+categories: whatever
+comments: true
+---
+
+有點無聊開了個 blog，但也不知道要寫什麼所以先貼個貓圖
+
+![貓圖]({{ site.img_prefix }}/DSC_0175.JPG)
+
