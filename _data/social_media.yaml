@@ -1,14 +1,8 @@
-email:
-  id: 'hateyou218@gmail.com'
-  href: 'mailto:'
-  title: 'Email'
-  fa-icon: 'fas fa-envelope-square'
-
-facebook:
-  id: '100001385532809'
-  href: 'https://www.facebook.com/'
-  title: 'Facebook'
-  fa-icon: 'fab fa-facebook-square'
+github:
+  id: 'hateyou218'
+  href: 'https://github.com/'
+  title: 'GitHub'
+  fa-icon: 'fab fa-github-square'
 
 twitter:
   id: 'hateyou218'
@@ -16,8 +10,20 @@ twitter:
   title: 'Twitter'
   fa-icon: 'fab fa-twitter-square'
 
-github:
+facebook:
+  id: '100001385532809'
+  href: 'https://www.facebook.com/'
+  title: 'Facebook'
+  fa-icon: 'fab fa-facebook-square'
+
+instagram:
   id: 'hateyou218'
-  href: 'https://github.com/'
-  title: 'GitHub'
-  fa-icon: 'fab fa-github-square'
+  href: 'https://www.instagram.com/'
+  title: 'Instagram'
+  fa-icon: 'fab fa-instagram-square'
+
+email:
+  id: 'hateyou218@gmail.com'
+  href: 'mailto:'
+  title: 'Email'
+  fa-icon: 'fas fa-envelope-square'
