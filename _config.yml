@@ -28,6 +28,7 @@ twitter_username: hateyou218
 github_username:  hateyou218
 disqus:           hateyou218
 img_prefix:       /assets/images
+google_analytics: UA-167598742-1
 
 # Build settings
 # theme: jekyll-theme-cayman
